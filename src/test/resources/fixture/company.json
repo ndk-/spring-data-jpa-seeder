@@ -1,0 +1,18 @@
+{
+  "companyName": "BTest",
+  "businessType": "Bsales",
+  "people": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "occupation": "CEO",
+      "age": 45
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "occupation": "CFO",
+      "age": 38
+    }
+  ]
+}
